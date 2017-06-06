@@ -1,3 +1,4 @@
+//codigo del profesor documentado y estudiado //
 package codigos;                 // paquete donde se encuentran las clases y los codigos //
 
 import java.awt.*;               /*     librerias
