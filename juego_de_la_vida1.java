@@ -1,3 +1,4 @@
+//codigo del profesor documentado y estudiado //
 package codigos;  // nombre del paquete que contiene las clases y los codigos //
 
 public class MatrixGenerator {    //nombre de la clase //
